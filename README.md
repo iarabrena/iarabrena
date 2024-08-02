@@ -1,4 +1,4 @@
-<p align="center">Oi, me chamo Iara Brena, tenho 22 anos, sou de Fortaleza-CE, sou graduanda em engenharia de software, atuo na parte do front-end (client side), minhas especialidades são, HTML, CSS, JavaScript e React.  Tenho alguns projetos pessoais publicados, podem acessar clicando em repositório. :)</p>
+<p align="center">olá, meu nome é Iara Brena, tenho 22 anos, sou de Fortaleza-CE, sou graduanda em engenharia de software, atuo na parte do front-end (client side), minhas especialidades são, HTML, CSS, JavaScript e React.  Tenho alguns projetos pessoais publicados, podem acessar clicando em repositório. :)</p>
 
 ###
 
